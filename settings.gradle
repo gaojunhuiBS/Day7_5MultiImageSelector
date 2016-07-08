@@ -1,0 +1,1 @@
+include ':app', ':day7_5zxing', 'multi-image-selector', ':sqlitedivpage'
